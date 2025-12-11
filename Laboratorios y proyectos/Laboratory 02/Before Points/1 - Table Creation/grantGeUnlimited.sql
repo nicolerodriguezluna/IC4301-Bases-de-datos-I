@@ -1,0 +1,1 @@
+ALTER USER ge quota unlimited on ge_ind;

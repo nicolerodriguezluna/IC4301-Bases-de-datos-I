@@ -1,0 +1,11 @@
+INSERT INTO phoneL2
+(id_phone,number_phone,phonecategory,idperson)
+VALUES (00,22509878,'casa',00)
+VALUES (01,64854789,'celular',01)
+VALUES (02,22707711,'casa',02)
+VALUES (03,71602741,'celular',03) 
+VALUES (04,88906576,'celular',04)
+VALUES (05,22145391,'oficina',05)
+VALUES (06,22144536,'ofocina',06)
+VALUES (07,88375692,'celular',07)
+VALUES (08,22142111,'casa',08)

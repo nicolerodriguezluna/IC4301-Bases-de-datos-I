@@ -1,0 +1,7 @@
+CREATE TABLESPACE AD_DATA
+DATAFILE 'C:\app\JeffreyLeiva\oradata\demo\addata.dbf'
+   SIZE 10M
+   REUSE
+   AUTOEXTEND ON
+   NEXT 512k
+   MAXSIZE 200M;

@@ -1,0 +1,7 @@
+CREATE TABLESPACE ge_Ind
+DATAFILE 'C:\app\JeffreyLeiva\oradata\demo\geInd01.dbf'
+SIZE 10M
+REUSE
+AUTOEXTEND ON
+NEXT 512k
+MAXSIZE 200M;

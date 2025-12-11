@@ -1,0 +1,8 @@
+--3. ¿¿Qué pasa cuando en el fetch del test se agregan más campos? 10pts? 10pts
+-- The database throws an exception saying that there is a wrong number of values in the INTO list of Fetch Statement.
+--4. Qué pasa cuando en el fetch del test faltó obtener campos? 10pts
+-- The database throws an exception saying that there is a wrong number of values in the INTO list of Fetch Statement.
+--5. ¿Qué pasa cuando en el fetch del test los campos tienen diferente dominio del
+--que está obteniendo el cursor? 10pts
+--  The procedure compiles and does not throw any exceptions but when you call it from the test query it throws an exception that says there is 
+-- numeric or value errors.

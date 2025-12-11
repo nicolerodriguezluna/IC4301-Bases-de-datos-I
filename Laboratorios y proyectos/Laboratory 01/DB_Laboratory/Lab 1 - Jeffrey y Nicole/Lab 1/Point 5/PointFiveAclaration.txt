@@ -1,0 +1,2 @@
+Point 5 of the lab is already made in the creation of all
+the tables, constraints were created at the same time as the tables.

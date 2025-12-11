@@ -1,0 +1,7 @@
+CREATE TABLESPACE ad_Ind
+DATAFILE 'C:\app\Jeffreyleiva\oradata\demo\adInd.dbf'
+SIZE 10M
+REUSE
+AUTOEXTEND ON
+NEXT 512k
+MAXSIZE 200M;

@@ -1,0 +1,13 @@
+ALTER TABLE peoplege
+      ADD CONSTRAINT pk_peoplege PRIMARY KEY (id_people)
+      USING INDEX
+      TABLESPACE ge_ind PCTFREE 20
+      STORAGE (INITIAL 10K NEXT 10K PCTINCREASE 0);
+      
+      
+ALTER TABLE phone
+      ADD CONSTRAINT pk_phone PRIMARY KEY (id_phone)
+      USING INDEX
+      TABLESPACE ge_ind PCTFREE 20
+      STORAGE (INITIAL 10K NEXT 10K PCTINCREASE 0);
+      

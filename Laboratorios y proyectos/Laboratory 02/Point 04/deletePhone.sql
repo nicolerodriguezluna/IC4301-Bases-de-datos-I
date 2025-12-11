@@ -1,0 +1,1 @@
+DELETE from phoneL2 where id_phone = 1;

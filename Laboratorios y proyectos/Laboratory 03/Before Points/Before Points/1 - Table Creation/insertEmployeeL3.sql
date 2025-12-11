@@ -1,0 +1,7 @@
+INSERT INTO employeege
+(id_employee,salary_employee,id_person,birthday_employee)
+VALUES(10,2000,10,'1958-04-18') 
+VALUES(46,1500,46,DATE'1999-08-08')
+VALUES(47,2700,47,DATE '2000-01-01')
+VALUES(48,2030,48,DATE '1963-03-15')
+VALUES(49,2900,49,DATE '1985-11-16')

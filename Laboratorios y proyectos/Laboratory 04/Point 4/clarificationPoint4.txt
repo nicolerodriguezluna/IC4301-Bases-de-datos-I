@@ -1,0 +1,3 @@
+4.	The point 4 by standard is created in all fields that will need 
+        the CONSTRAIN and is found in most of the fields in the tables that 
+        merit it
